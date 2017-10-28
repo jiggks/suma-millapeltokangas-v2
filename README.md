@@ -1,1 +1,3 @@
-# suma-millapeltokangas-v2
+## Suunnittelumallit
+
+1. Factory Method
